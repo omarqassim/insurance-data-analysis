@@ -54,11 +54,6 @@ The file contains a simple utility function that summarizes any dataset:
 - `insurance(in).csv` — Dataset used for the project
 - `infoo.py` — Helper function for dataset inspection
 
----
-
-## 📜 License
-
-This project is released under the **MIT License**.
 
 ---
 
